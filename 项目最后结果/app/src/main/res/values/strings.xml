@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">text10</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="TiZhongJiShuQi">体重计数器</string>
+    <string name="TiZhong">体重</string>
+    <string name="qingshurutizhong">请输入体重:单位千克</string>
+    <string name="shengao">身高</string>
+    <string name="qingshurushengao">请输入身高:单位厘米</string>
+    <string name="jisuan">计算</string>
+    <string name="jieguo">结果</string>
+</resources>
